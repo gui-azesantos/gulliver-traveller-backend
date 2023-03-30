@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author gedo
- *
- */
-module gulliverTraveller {
-}
